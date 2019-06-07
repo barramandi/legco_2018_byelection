@@ -31,5 +31,5 @@ most notably Sai Kung Islands. This affects the validity of the result.
 
 All other packages are obtainable from CRAN.
 
----
+## Reference
 The function to implement the shapefile in R is taking reference to [stanyip/DC2015](https://github.com/stanyip/DC2015).

@@ -16,7 +16,7 @@ and an R script that creates them.
 
 ## How it works
 Each counting station in the 2018 LegCo By-election has a code with a prefix letter 
-that corresponds to the District Council Contituency Areas (DCCA). Geograqphical demographics
+that corresponds to the District Council Contituency Areas (DCCA). Geographical demographics
 from the government census is also based on DCCA. By mapping the political support and demographics 
 in each DCCA, it provides a glimpse of the relationship between the two.
 

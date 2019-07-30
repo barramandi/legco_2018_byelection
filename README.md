@@ -1,4 +1,4 @@
-# legco_2018_byelection
+# LegCo 2018 By-Election Analysis
 Political alignment and demographics in 2018 Hong Kong Legislative Council (LegCo) By-election
 
 ## What it does

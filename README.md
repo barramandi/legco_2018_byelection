@@ -29,7 +29,7 @@ most notably Sai Kung Islands. This affects the validity of the result.
 (kudos to [accessinfo.hk](https://accessinfo.hk))
 * [helixcn/HK80](https://github.com/helixcn/HK80)
 
-The R script automatically fetches the the [2018 By-Election result](https://www.elections.gov.hk/legco2018by/eng/results.html)
+The R script automatically fetches the [2018 By-Election result](https://www.elections.gov.hk/legco2018by/eng/results.html)
 and [2016 By-census data](https://www.bycensus2016.gov.hk/en/index.html).
 
 All other packages are obtainable from CRAN.

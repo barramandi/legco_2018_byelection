@@ -8,9 +8,12 @@ in the 2018 LegCo By-election.
 
 ## What they are
 Three interactive maps:
-1. Winning political camp and margin of votes in each District Council constituency
+1. Winning political camp and margin of votes in each District Council constituency 
+(preview [here](https://elgarteo.github.io/legco_2018_byelection/margin.html))
 2. Monthly median income in each District Council constituency
+(preview [here](https://elgarteo.github.io/legco_2018_byelection/income.html))
 3. Home ownership rate in each District Council constituency
+(preview [here](https://elgarteo.github.io/legco_2018_byelection/ownership.html))
 
 and an R script that creates them.
 
